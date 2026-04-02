@@ -27,13 +27,6 @@ Full Stack Developer focused on building scalable and performant web application
 * Advanced backend architecture & system design
 
 ---
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Himanshupanwarr12&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshupanwarr12&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Contact
 
