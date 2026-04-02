@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Himanshu 👋
 
-<!--
-**Himanshupanwarrr12/HimanshuPanwarrr12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on building scalable and performant web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### 💻 Frontend
+
+* HTML, CSS, Tailwind CSS
+* JavaScript, TypeScript
+* React.js, Next.js
+* Redux Toolkit, Zustand
+
+### ⚙️ Backend & Database
+
+* Node.js (API development)
+* PostgreSQL, MongoDB
+* Prisma, Drizzle ORM, Mongoose
+
+### 🧠 Currently Learning
+
+* Apache Kafka
+* Redis
+* Docker
+* Advanced backend architecture & system design
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+* Email: [hpanwar875@gmail.com](mailto:your@email.com)
+* LinkedIn: https://linkedin.com/in/Himanshu-war/
+
+---
