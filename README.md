@@ -21,10 +21,9 @@ Full Stack Developer focused on building scalable and performant web application
 
 ### 🧠 Currently Learning
 
-* Apache Kafka
-* Redis
-* Docker
 * Advanced backend architecture & system design
+* Devops
+* DSA
 
 ---
 
