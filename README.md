@@ -15,9 +15,10 @@ Full Stack Developer focused on building scalable and performant web application
 
 ### ⚙️ Backend & Database
 
-* Node.js (API development)
+* Node.js, Bun.js (API development)
 * PostgreSQL, MongoDB
 * Prisma, Drizzle ORM, Mongoose
+* Typescript, Python 
 
 ### 🧠 Currently Learning
 
@@ -31,6 +32,6 @@ Full Stack Developer focused on building scalable and performant web application
 
 * Email: [himanshupanwar.dev@gmail.com](mailto:your@email.com)
 * LinkedIn: https://linkedin.com/in/Himanshu-war/
-* Portfolio : https://himanshupanwar.vercel.app/
+* Portfolio: https://himanshupanwar.vercel.app/
 
 ---
