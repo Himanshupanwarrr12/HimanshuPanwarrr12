@@ -1,113 +1,43 @@
 # Hi, I'm Himanshu 👋
 
-Full Stack Developer focused on building **scalable, performant, and distributed web applications**.
-
-I enjoy understanding how systems work under the hood — from HTTP and TCP networking to databases, caching, message brokers, containers, and distributed system architecture.
+Full Stack Developer focused on building scalable and performant web applications.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 💻 Frontend
+**Frontend:** HTML · CSS · Tailwind CSS · JavaScript · TypeScript · React · Next.js · Redux Toolkit · Zustand
 
-- HTML, CSS, Tailwind CSS
-- JavaScript, TypeScript
-- React.js, Next.js
-- Redux Toolkit, Zustand
+**Backend:** Node.js · Bun.js · Express.js · TypeScript · Python · REST APIs · JWT
 
-### ⚙️ Backend
+**Data:** PostgreSQL · MongoDB · Redis · Prisma · Drizzle · Mongoose · Connection Pooling
 
-- Node.js, Bun.js
-- Express.js
-- TypeScript, Python
-- REST APIs
-- Authentication & Authorization
-- JWT
-- Microservices Architecture
+**Architecture:** Microservices · Distributed Systems · Kafka · Event-Driven Architecture · System Design · Scalability
 
-### 🗄️ Databases & Data
+**Infrastructure:** Docker · Docker Compose · DevOps · Linux
 
-- PostgreSQL
-- MongoDB
-- Redis
-- Prisma
-- Drizzle ORM
-- Mongoose
-- Database Design
-- Connection Pooling
-- Caching
-
-### 🏗️ Distributed Systems & Architecture
-
-- Microservices
-- Distributed Systems
-- Event-Driven Architecture
-- Apache Kafka
-- Message Queues & Asynchronous Communication
-- Scalability & Performance
-- Fault Tolerance
-- Service-to-Service Communication
-- API Design
-
-### 🐳 DevOps & Infrastructure
-
-- Docker
-- Docker Compose
-- Linux
-- Git & GitHub
-- Environment Configuration
-- Containerized Development
-
-### 🌐 Computer Networks
-
-- HTTP / HTTPS
-- TCP / UDP
-- IP
-- DNS
-- TLS
-- WebSockets
-- Client-Server Architecture
-- Network Fundamentals
+**Networking:** HTTP/HTTPS · TCP/UDP · DNS · TLS · WebSockets
 
 ---
 
-## 🚧 Current Project
+## 🚧 Currently Building
 
-### 🚗 FluxRide — Uber Clone
+### 🚗 FluxRide
 
-A distributed ride-hailing platform built with a microservices-oriented architecture.
+Microservices-based Uber clone focused on scalable backend architecture.
 
-**Currently working with:**
-
-- User Service
-- Driver Service
-- Ride Service
-- Payment Service
-- Notification Service
-- PostgreSQL
-- Redis
-- Apache Kafka
-- Docker & Docker Compose
-- Prisma
-- REST APIs
-- WebSockets
-
-The project focuses on understanding **real-world backend architecture, service communication, scalability, caching, asynchronous processing, and distributed systems**.
+**Node.js · TypeScript · PostgreSQL · Redis · Kafka · Docker · Prisma · WebSockets**
 
 ---
 
 ## 🧠 Currently Learning
 
-- Advanced System Design
-- Distributed Systems
-- Advanced Backend Architecture
-- DevOps & Deployment
-- Data Structures & Algorithms
+System Design · Distributed Systems · DevOps · DSA
 
 ---
 
 ## 📫 Contact
 
-- Email: [himanshupanwar.dev@gmail.com](mailto:himanshupanwar.dev@gmail.com)
-- LinkedIn: https://linkedin.com/in/Himanshu-war/
-- Portfolio: https://himanshupanwar.vercel.app/
+**Email:** himanshupanwar.dev@gmail.com  
+**LinkedIn:** https://linkedin.com/in/Himanshu-war/  
+**Portfolio:** https://himanshupanwar.vercel.app/
