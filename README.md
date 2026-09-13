@@ -8,15 +8,17 @@ Full Stack Developer focused on building scalable and performant web application
 
 **Frontend:** HTML · CSS · Tailwind CSS · JavaScript · TypeScript · React · Next.js · Redux Toolkit · Zustand
 
-**Backend:** Node.js · Bun.js · Express.js · TypeScript · Python · REST APIs · JWT
+**Backend:** Node.js · Bun.js · Express.js · TypeScript · REST APIs · JWT
 
-**Data:** PostgreSQL · MongoDB · Redis · Prisma · Drizzle · Mongoose · Connection Pooling
+**Databases:** PostgreSQL · MongoDB · Redis
+
+**ORMs/ODMs:** Prisma · Drizzle · Mongoose
 
 **Architecture:** Microservices · Distributed Systems · Kafka · Event-Driven Architecture · System Design · Scalability
 
 **Infrastructure:** Docker · Docker Compose · DevOps · Linux
 
-**Networking:** HTTP/HTTPS · TCP/UDP · DNS · TLS · WebSockets
+**Networking:** HTTP/HTTPS · TCP/UDP · SSH · TLS · WebSockets
 
 ---
 
