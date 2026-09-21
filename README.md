@@ -26,7 +26,7 @@ Full Stack Developer focused on building scalable and performant web application
 
 ### 🚗 FluxRide
 
-Microservices-based Uber clone focused on scalable backend architecture.
+Distributed Ride-Hailing Platform with Event-Driven Microservices
 
 **Node.js · TypeScript · PostgreSQL · Redis · Kafka · Docker · Prisma · WebSockets**
 
